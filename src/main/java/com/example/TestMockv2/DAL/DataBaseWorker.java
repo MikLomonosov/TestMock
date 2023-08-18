@@ -10,7 +10,7 @@ public class DataBaseWorker {
 
     //region Fields
 
-    private String dbUrl = "jdbc:postgresql://0.0.0.0:5432/postgres";
+    private String dbUrl = "jdbc:postgresql://10.0.2.15:5432/postgres";
     private String dbUser = "postgres";
     private String dbPassword = "postgres";
     private String authenticateTable = "authenticate";
